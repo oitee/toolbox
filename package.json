@@ -1,6 +1,6 @@
 {
   "name": "@otee/toolbox",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Common utility functions that I find useful while writing JavaScript projects",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "homepage": "https://github.com/oitee/toolbox#readme",
   "type": "module",
   "devDependencies": {
-    "jest": "^27.1.0"
+    "jest": "27.2.5"
   },
   "jest": {
     "testMatch": [
