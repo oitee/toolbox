@@ -1,0 +1,28 @@
+{
+  "name": "@otee/toolbox",
+  "version": "1.0.0",
+  "description": "Common utility functions that I find useful while writing JavaScript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oitee/toolbox.git"
+  },
+  "author": "Otee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oitee/toolbox/issues"
+  },
+  "homepage": "https://github.com/oitee/toolbox#readme",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  },
+  "jest": {
+    "testMatch": [
+      "**/test/**.js"
+    ]
+  }
+}
